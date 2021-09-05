@@ -10,7 +10,7 @@ I'm **[Ivan Madera](https://www.linkedin.com/in/ivan-madera/)**,  student of **[
 <nobr>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=ivanmadera&show_icons=true&count_private=true&theme=dark&hide_border=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmadera&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=jupyter%20notebook,tex,css,php" width="488">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmadera&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=jupyter%20notebook,tex,css,php" width="500">
   <br>
   <br>
 </p>
