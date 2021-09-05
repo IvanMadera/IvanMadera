@@ -31,8 +31,8 @@ I'm **[Ivan Madera](https://www.linkedin.com/in/ivan-madera/)**,  student of **[
 
 ### Programming Languages :computer:
 
-| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="ts" alt="ts" width="30">](https://www.java.com/es/) | [<img src="assets/bash.png" title="bash" alt="bash" width="50">](https://www.gnu.org/software/bash/) |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="ts" alt="ts" width="30">](https://www.java.com/es/) |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 
 
 ### Databases :floppy_disk:
@@ -43,8 +43,9 @@ I'm **[Ivan Madera](https://www.linkedin.com/in/ivan-madera/)**,  student of **[
 
 ### Tools & other technologies :hammer_and_wrench:
 
-| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) |
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/bash.png" title="bash" alt="bash" width="50">](https://www.gnu.org/software/bash/) |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+
 
 ## Facts
 
