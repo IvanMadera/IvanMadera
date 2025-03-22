@@ -1,64 +1,57 @@
-# Welcome to my Github profile👋
+# 👋 Bienvenido a mi perfil de Github
+Hola mi nombre es **[Ivan Madera](https://www.linkedin.com/in/ivan-madera/)** soy un desarrollador de software con más de 2 años de experiencia en desarrollo Backend, especializado en AWS y la optimización de sistemas de alto rendimiento. Líder de un equipo de Middleware que logró reducir en un 20% los tiempos de respuesta de sistemas críticos. Coautor de un artículo científico sobre la intersección entre tecnología y salud mental. Apasionado por el desarrollo Frontend con un enfoque en la experiencia de usuario.
 
-I'm **[Ivan Madera](https://www.linkedin.com/in/ivan-madera/)**,  student of **[ITM](https://www.itmerida.mx/)** of the Computer Systems Engineering career. I'm passionate about FrontEnd Development and UX / UI design enthusiast.
-
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@IvanMadera&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/ivan-madera/)
-[![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@IvanMadera&logo=facebook&style=flat&color=blue)](https://www.facebook.com/ivan.madera1999)
-
-## Stats
-
-<nobr>
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=ivanmadera&show_icons=true&count_private=true&theme=dark&hide_border=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmadera&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=jupyter%20notebook,tex,css,php" width="495">
-  <br>
-  <br>
-</p>
-
-## Skills
-
-### Frameworks FrontEnd :package:
-
-| [<img src="assets/vue.png" title="vue" alt="vue" width="40">](https://vuejs.org/) | [<img src="assets/react.png" title="react" alt="react" width="40">](https://es.reactjs.org/) |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+# 💫 Acerca de mi
+🔭 Actualmente trabajo como desarrollador middleware en una empresa de retail en la que manejo diversos proyectos, en mis tiempos libres estoy desarrollando una plataforma para el control de la capacidad instalada.<br>
+👯 Me gustaría colaborar en proyectos Open Source o desarrollando templates para las personas que apenas comienzan en el desarrollo de APIs.<br>
+🤝 No estoy en busca de ayuda pero si estas iniciando y tienes alguna duda puedes contactarme.<br>
+🌱 Actualmente estoy volviendo al desarrollo Frontend, ando aprendiendo algo de Astro, pero me gustaría regresar a Vue o React.<br>
+💬 Pregúntame de los que gustes si ves que coincidimos con alguna tecnología.<br>
+⚡ Fun fact, inicie como desarrollador Frontend que era lo que más me apasionaba pero el trabajo me hizo pasarme al lado del Backend y lo disfruto, sin embargo, actualmente estoy buscando unificar mi experiencia en ambas partes con un proyecto personal.
 
 
-### Frameworks BackEnd :package:
+# 🌐 Redes sociales
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-madera)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivan.madera1999@gmail.com)
 
-| [<img src="assets/nodejs.png" title="node" alt="node" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" title="django" alt="django" width="70">](https://www.djangoproject.com/) |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+# 💻 Stack de tecnología:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+# 📊 Estadísticas de Github:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMadera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=IvanMadera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=IvanMadera&theme=dark&hide_border=false)
 
 
-### Programming Languages :computer:
+# ✍️ Frase de desarrollo
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-| [<img src="assets/javascript.png" title="js" alt="js" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" title="python" alt="python" width="50">](https://www.python.org/) | [<img src="assets/java.png" title="ts" alt="ts" width="30">](https://www.java.com/es/) |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+# 🎯 Curriculum
+[![CV Español](https://img.shields.io/badge/Currículum%20Español-Download-red?style=for-the-badge&logo=adobeacrobatreader)](curriculums/Curriculum%20Ivan%20Madera%20(Español).pdf)<br>
+[![CV English](https://img.shields.io/badge/Curriculum%20English-Download-red?style=for-the-badge&logo=adobeacrobatreader)](curriculums/Curriculum%20Ivan%20Madera%20(English).pdf)
 
+# 🫂 Hasta luego
+😊 Si llegaste hasta aquí, no me queda más que agradecerte por visitar mi perfil de GitHub.
 
-### Databases :floppy_disk:
-
-| [<img src="assets/postgres.svg" title="postgres" alt="postgres" width="40">](https://www.postgresql.org/) | [<img src="assets/sqlite.png" title="sqlite" alt="sqlite" width="70">](https://www.sqlite.org/index.html) |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-
-
-### Tools & other technologies :hammer_and_wrench:
-
-| [<img src="assets/git.png" title="git" alt="git" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/bash.png" title="bash" alt="bash" width="50">](https://www.gnu.org/software/bash/) |
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-
-
-## Facts
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning: **Python/Django & VueJS to develop Full-Stack web applications**
-- 👯 I’m looking to collaborate on: **Open-source projects.**
-- 💬 Ask me about: **Things you would like to know about anything.**
-- 🤔 I’m looking for: **help with jobs/intern.**
-- 📫 How to reach me: **Connect with me on [Facebook](https://www.facebook.com/ivan.madera1999)** / **[Linkedin](https://www.linkedin.com/in/ivan-madera/)**
-
-### :handshake: Always happy to help!
-
-### :hugs: Thank You!
-
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/IvanMadera)! :v:
+<!-- Orgullosamente creado con GPRM ( https://gprm.itsvg.in ) -->
