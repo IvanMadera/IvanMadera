@@ -77,11 +77,11 @@ El trabajo fue presentado en **WITCOM 2023** y posteriormente publicado como par
 <div align="center">
 
 <a href="https://github.com/IvanMadera">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IvanMadera&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img height="180" src="./profile/stats.svg" alt="Estadísticas de GitHub" />
 </a>
 
 <a href="https://github.com/IvanMadera">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMadera&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img height="180" src="./profile/top-langs.svg" alt="Lenguajes más utilizados" />
 </a>
 
 </div>
@@ -100,19 +100,24 @@ El trabajo fue presentado en **WITCOM 2023** y posteriormente publicado como par
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IvanMadera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 📈 Actividad
+## 🐍 Actividad en GitHub
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanMadera\&theme=tokyo-night\&hide_border=true\&area=true\&custom_title=Actividad%20en%20GitHub)](https://github.com/IvanMadera)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img alt="Contribuciones de GitHub" src="./profile/github-snake.svg" />
+</picture>
 
 </div>
+
 
 ---
 
